@@ -8,4 +8,4 @@ Using the sample database named Sakila make a sql file with the required queries
 
 The following ER diagram shows the tables, columns, and relationships considered to make the script.
 
-![der](sql/Resources/der.png)
+![der](/Resources/der.png)
