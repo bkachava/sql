@@ -1,8 +1,8 @@
-# SQL assignment
+# SQL Assignment
 
 # MySQL Sakila Sample Database
 
-Using the sample database named Sakila make a sql file with the required queries.
+Using the sample database named Sakila make a sql file with the required queries. 
 
 ## Entity Relationship Diagram
 
